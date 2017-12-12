@@ -1,0 +1,31 @@
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+Function=CreateZStream
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/System.dll
+Function=CloseZStream
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/System.dll
+Function=Flush
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/System.dll
+Function=ReadZStream
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/System.dll
+Function=WriteZStream
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/System.dll
+Function=xamarin_start_wwan
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/System.dll
+Function=xamarin_timezone_get_data
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ict/Downloads/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/mtouch-cache/32/Link/mscorlib.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret
