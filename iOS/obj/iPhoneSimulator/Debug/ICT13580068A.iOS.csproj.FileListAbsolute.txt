@@ -220,3 +220,4 @@
 /Users/ict/Desktop/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/ICT13580068A.iOS.exe
 /Users/ict/Desktop/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/ICT13580068A.iOS.pdb
 /Users/ict/Desktop/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/optimized/menu.png
+/Users/ict/Desktop/ICT13580068A/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.0/optimized/menu (1).png
