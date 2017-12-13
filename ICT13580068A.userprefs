@@ -1,12 +1,14 @@
 ﻿<Properties StartupConfiguration="{402398E9-85B0-440E-B43D-3517F95C8FBB}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ICT13580068A/MenuPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICT13580068A/MyPage1.xaml">
     <Files>
-      <File FileName="ICT13580068A/MenuPage.xaml" Line="26" Column="64" />
-      <File FileName="ICT13580068A/MenuPage.xaml.cs" Line="96" Column="1" />
-      <File FileName="ICT13580068A/ICT13580068APage.xaml.cs" Line="37" Column="1" />
-      <File FileName="ICT13580068A/ICT13580068APage.xaml" Line="78" Column="1" />
-      <File FileName="ICT13580068A/GridPage.xaml" Line="45" Column="1" />
-      <File FileName="ICT13580068A/obj/Debug/ICT13580068A.MenuPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="ICT13580068A/MyPage1.xaml" Line="21" Column="1" />
+      <File FileName="ICT13580068A/MyPage2.xaml" Line="26" Column="1" />
+      <File FileName="ICT13580068A/MyPage3.xaml" Line="23" Column="1" />
+      <File FileName="ICT13580068A/NavPage1.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580068A/NavPage2.xaml.cs" Line="1" Column="1" />
+      <File FileName="ICT13580068A/NavPage3.xaml.cs" Line="28" Column="1" />
+      <File FileName="ICT13580068A/MenuPage.xaml" Line="125" Column="1" />
+      <File FileName="ICT13580068A/ICT13580068APage.xaml" Line="79" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

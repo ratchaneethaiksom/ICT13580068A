@@ -93,3 +93,4 @@
 /Users/ict/Desktop/ICT13580068A/ICT13580068A/obj/Debug/ICT13580068A.MenuPage.xaml.g.cs
 /Users/ict/Desktop/ICT13580068A/ICT13580068A/obj/Debug/ICT13580068A.dll
 /Users/ict/Desktop/ICT13580068A/ICT13580068A/obj/Debug/ICT13580068A.pdb
+/Users/ict/Desktop/ICT13580068A/ICT13580068A/obj/Debug/ICT13580068A.csprojResolveAssemblyReference.cache
